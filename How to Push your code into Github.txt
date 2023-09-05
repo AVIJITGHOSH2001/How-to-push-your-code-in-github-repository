@@ -1,0 +1,23 @@
+// ......How to Push your code into Github...../
+
+1) git config --global user.email "you@example.com"
+  
+2) git config --global user.name "Your Name"
+
+      .....................
+
+3)git init
+
+4)git add .
+
+5)git commit -m "Message"
+
+6)git status 
+
+7) git remote add origin http://.......... (Create a new repository link in Github)
+
+
+8) git push -u origin master
+
+
+  
